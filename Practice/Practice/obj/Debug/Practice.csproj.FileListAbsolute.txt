@@ -1,0 +1,14 @@
+C:\Users\sagar.rajput\Desktop\Practice of WPF\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\sagar.rajput\Desktop\Practice of WPF\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\sagar.rajput\Desktop\Practice of WPF\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\sagar.rajput\Desktop\Practice of WPF\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\sagar.rajput\Desktop\Practice of WPF\Practice\Practice\obj\Debug\MainWindow.g.cs
+C:\Users\sagar.rajput\Desktop\Practice of WPF\Practice\Practice\obj\Debug\App.g.cs
+C:\Users\sagar.rajput\Desktop\Practice of WPF\Practice\Practice\obj\Debug\Practice_MarkupCompile.cache
+C:\Users\sagar.rajput\Desktop\Practice of WPF\Practice\Practice\obj\Debug\Practice_MarkupCompile.lref
+C:\Users\sagar.rajput\Desktop\Practice of WPF\Practice\Practice\obj\Debug\MainWindow.baml
+C:\Users\sagar.rajput\Desktop\Practice of WPF\Practice\Practice\obj\Debug\Practice.g.resources
+C:\Users\sagar.rajput\Desktop\Practice of WPF\Practice\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\sagar.rajput\Desktop\Practice of WPF\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.Cache
+C:\Users\sagar.rajput\Desktop\Practice of WPF\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\sagar.rajput\Desktop\Practice of WPF\Practice\Practice\obj\Debug\Practice.pdb
